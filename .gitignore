@@ -1,0 +1,6 @@
+logs
+newvenv/
+# Ignore .vscode directory
+.vscode/
+# Ignore .env file
+.env
